@@ -29,6 +29,6 @@ html {
 
 @media only screen and (max-width: 910px) {
 #dolphin {
-  transform: rotate(0.1turn);
+  transform: rotate(-0.25turn);
 }
 }
